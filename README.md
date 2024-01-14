@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/meg%CA%B0-) :)
 
-## I speak 
+## I speak
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" style="padding-right:9px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" style="padding-right:9px;"/>
@@ -52,7 +52,7 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 <br/>
 <br/>
 
-## I am always interested in 
+## I am always interested in
 
 - embedded
 - networking
@@ -68,7 +68,9 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 
 ## ⚡ GitHub Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-theodoros-kyriakidis-projects.vercel.app/api?username=thekyria&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Top Langs](https://github-readme-stats-tan-mu-30.vercel.app/api/top-langs/?username=thekyria&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-tan-mu-30.vercel.app/api?username=thekyria&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
 
 
 [//]: # (---------------- Links ----------------)
