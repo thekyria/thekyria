@@ -67,15 +67,7 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 
 ## Connect with me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/x.svg" />][linkedin]
-
-
-## ⚡ GitHub Stats
-
-[![Top Langs](https://github-readme-stats-tan-mu-30.vercel.app/api/top-langs/?username=thekyria&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-tan-mu-30.vercel.app/api?username=thekyria&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-
+[<img height="32" width="32" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />][linkedin]
 
 [//]: # (---------------- Links ----------------)
 
