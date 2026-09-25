@@ -16,8 +16,6 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 <br/>
 <br/>
 
-[![thekyria's WakaTime stats](https://github-readme-stats-tan-mu-30.vercel.app/api/wakatime?username=thekyria&theme=transparent&hide_border=true)](https://wakatime.com/@thekyria)
-
 ## I am casually using
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/windows.svg" style="padding-right:9px;"/>
