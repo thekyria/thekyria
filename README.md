@@ -1,17 +1,12 @@
-<!---
-thekyria/thekyria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi all, I’m @thekyria 👋
 
 I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/meg%CA%B0-) :)
 
 ## I speak
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" style="padding-right:9px;"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" style="padding-right:9px;"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="padding-right:9px;"/>
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" style="padding-right:9px;"/>
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" style="padding-right:9px;"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="padding-right:9px;"/>
 
 <br/>
 <br/>
