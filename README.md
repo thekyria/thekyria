@@ -32,7 +32,7 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 <img align="left" alt="PyCharm" width="26px" src="https://cdn.simpleicons.org/pycharm" hspace="4"/>
 <img align="left" alt="Postman" width="26px" src="https://cdn.simpleicons.org/postman" hspace="4"/>
 <img align="left" alt="GitHub Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot" hspace="4"/>
-<img align="left" alt="Claude Code" width="26px" src="https://cdn.simpleicons.org/anthropic" hspace="4"/>
+<img align="left" alt="Claude Code" width="26px" src="https://cdn.simpleicons.org/claude" hspace="4"/>
 
 <img align="left" alt="Azure DevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azuredevops.svg" hspace="4"/>
 <img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github" hspace="4"/>
