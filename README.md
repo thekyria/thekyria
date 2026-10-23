@@ -20,27 +20,27 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.simpleicons.org/raspberrypi" hspace="4"/>
 <img align="left" alt="Cisco" width="26px" src="https://cdn.simpleicons.org/cisco" hspace="4"/>
 
-<img align="left" alt="Windows Terminal" width="26px" src="assets/icons/windowsterminal.svg" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thekyria/thekyria/main/assets/icons/windowsterminal-dark.svg"/><img align="left" alt="Windows Terminal" width="26px" src="assets/icons/windowsterminal.svg" hspace="4"/></picture>
 <img align="left" alt="Chocolatey" width="26px" src="https://cdn.simpleicons.org/chocolatey" hspace="4"/>
-<img align="left" alt="Inkscape" width="26px" src="https://cdn.simpleicons.org/inkscape" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inkscape/white"/><img align="left" alt="Inkscape" width="26px" src="https://cdn.simpleicons.org/inkscape" hspace="4"/></picture>
 <img align="left" alt="GIMP" width="26px" src="https://cdn.simpleicons.org/gimp" hspace="4"/>
 
 <img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git" hspace="4"/>
-<img align="left" alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/markdown/white"/><img align="left" alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" hspace="4"/></picture>
 <img align="left" alt="Visual Studio Code" width="26px" src="assets/icons/visualstudiocode.svg" hspace="4"/>
 <img align="left" alt="Notepad++" width="26px" src="https://cdn.simpleicons.org/notepadplusplus" hspace="4"/>
-<img align="left" alt="PyCharm" width="26px" src="https://cdn.simpleicons.org/pycharm" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pycharm/white"/><img align="left" alt="PyCharm" width="26px" src="https://cdn.simpleicons.org/pycharm" hspace="4"/></picture>
 <img align="left" alt="Postman" width="26px" src="https://cdn.simpleicons.org/postman" hspace="4"/>
-<img align="left" alt="GitHub Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/white"/><img align="left" alt="GitHub Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot" hspace="4"/></picture>
 <img align="left" alt="Claude Code" width="26px" src="https://cdn.simpleicons.org/claude" hspace="4"/>
 
 <img align="left" alt="Azure DevOps" width="26px" src="assets/icons/azuredevops.svg" hspace="4"/>
-<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github" hspace="4"/>
-<img align="left" alt="Vercel" width="26px" src="https://cdn.simpleicons.org/vercel" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"/><img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github" hspace="4"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white"/><img align="left" alt="Vercel" width="26px" src="https://cdn.simpleicons.org/vercel" hspace="4"/></picture>
 
 <img align="left" alt="Make" width="26px" src="https://cdn.simpleicons.org/make" hspace="4"/>
 <img align="left" alt="CMake" width="26px" src="https://cdn.simpleicons.org/cmake" hspace="4"/>
-<img align="left" alt="LLVM" width="26px" src="https://cdn.simpleicons.org/llvm" hspace="4"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/llvm/white"/><img align="left" alt="LLVM" width="26px" src="https://cdn.simpleicons.org/llvm" hspace="4"/></picture>
 
 <img align="left" alt="Qt" width="26px" src="https://cdn.simpleicons.org/qt" hspace="4"/>
 <img align="left" alt="Boost" width="26px" src="https://cdn.simpleicons.org/boost" hspace="4"/>
