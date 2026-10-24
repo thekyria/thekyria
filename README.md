@@ -65,9 +65,6 @@ I am an [engineer](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-Euro
 
 [<img height="32" width="32" alt="LinkedIn" src="assets/icons/linkedin.svg" />][linkedin]
 
-[thekyria.com][website]
-
 [//]: # (---------------- Links ----------------)
 
-[website]: https://thekyria.com
 [linkedin]: https://www.linkedin.com/in/theodoroskyriakidis/
